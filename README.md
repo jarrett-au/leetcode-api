@@ -3,7 +3,7 @@ LeetCode Problem Fetcher API for Obsidian.
 
 ## Demo 🎬
 
-![demo](./demos/demo.mp4)
+![demo](./demos/demo.gif)
 
 ## Features ✨
 
